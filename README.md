@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, eu sou a Lívia Maria! 👩‍💻
 
-<!--
-**livmariaa/livmariaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Futura tecnóloga em Desenvolvimeto de Sistemas pelo SENAI.
+### Estou a procura do meu primeiro emprego 👀
 
-Here are some ideas to get you started:
+## ⚡ Hard Skills
+- Desenvolvimento Android (Java e Kotlin)
+- Desenvolvimento BackEnd em Java
+- Desenvolvimento FrontEnd em HTML, CSS e JavaScript
+- Arquiteturas MVC, MVP, MVVM
+- APis com Retrofit, Coroutines
+- Git e GitHub
+- Metodologia Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Entre em contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/livia-maria-meira-a2096a309/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codansoficial)
